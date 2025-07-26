@@ -66,7 +66,7 @@ We value all feedback — testers, travel enthusiasts, and developers alike!
 
 ## ❓ Frequently Asked Questions (FAQs)
 
-See the [Wiki/FAQs](https://github.com/fahad10inb/SyncTrek/wiki) for answers to common questions about usage, troubleshooting, and contribution guidelines. If you don’t find your answer there, please open an issue or discussion.
+See the [FAQs](https://github.com/fahad10inb/SyncTrek/docs/faq.md) for answers to common questions about usage, troubleshooting, and contribution guidelines. If you don’t find your answer there, please open an issue or discussion.
 
 ## 🔒 Security
 
