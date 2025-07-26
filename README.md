@@ -1,59 +1,93 @@
-# Travel Planner App - Beta Release
 
-[![Release](https://img.shields.io/github/v/release/yourusername/travel-planner-app?style=flat-square)](https://github.com/yourusername/travel-planner-app/releases)
-[![License](https://img.shields.io/badge/license-Proprietary-blue.svg?style=flat-square)](LICENSE)
-[![Issues](https://img.shields.io/github/issues/yourusername/travel-planner-app?style=flat-square)](https://github.com/yourusername/travel-planner-app/issues)
 
----
+# SyncTrek - Travel Planner App (Beta)
 
-## Overview
+## 🚀 Overview
 
-The Travel Planner App is a cutting-edge mobile application designed to simplify and personalize your travel planning experience. This beta release offers a comprehensive set of features to help you discover the best hotels, restaurants, attractions, and travel insights tailored to your preferences.
+**SyncTrek** is your intelligent, intuitive travel companion, taking the stress out of trip planning. Our mobile-first app creates personalized travel itineraries with real-time data, top recommendations, and tailored local experiences.
 
----
+- Effortless itinerary creation  
+- Curated hotels & restaurants  
+- Discover must-see and hidden attractions  
+- Proactive travel tips & insights  
+- Fast, modern Flutter UI for a superior experience  
+- Currently Android-only APK — iOS coming soon  
 
-## Key Features
+***This is a public beta release. Your feedback will shape SyncTrek’s journey!***
 
-- **Personalized Itineraries:** Generate travel plans customized to your interests and schedule.
-- **Hotel & Restaurant Recommendations:** Access curated lists with ratings and reviews.
-- **Places to Visit:** Explore popular and hidden gems at your destination.
-- **Travel Insights:** Receive expert tips and advice to enhance your journey.
-- **User-Friendly Interface:** Built with Flutter for smooth and responsive performance.
-- **Real-Time Data Integration:** Stay updated with the latest information.
-- **Multi-Platform Support:** Available for Android (APK in releases) with iOS support coming soon.
+## ✨ Features
 
----
+- **Custom Itineraries:** Plans tailored to your interests and travel schedule.  
+- **Verified Recommendations:** Hotels and restaurants selected by both AI and local experts.  
+- **Hidden & Famous Places:** Enjoy a blend of classic and lesser-known destinations.  
+- **Live Data:** Real-time points of interest, event updates, and more.  
+- **Save Your Favourites:** Bookmark locations and suggestions for quick access.  
+- **Offline Access (Coming Soon):** Plan ahead and stay prepared even without internet.  
+- **Secure & Private:** Your travels, your data — kept safe.  
 
-## Getting Started
+## 📲 Installation
 
-### Installation
+1. Download the latest **Beta APK** from the [Releases](https://github.com/fahad10inb/SyncTrek/releases) section.  
+2. On your Android device, enable installation from unknown sources if prompted.  
+3. Open and install the APK.  
+4. Launch SyncTrek and follow the onboarding prompts.  
 
-Download the latest APK from the [Releases](https://github.com/yourusername/travel-planner-app/releases) section and install it on your Android device.
+*Need help? Visit our [Support Issues](https://github.com/fahad10inb/SyncTrek/issues) page.*
 
-### Usage
+## 💡 Getting Started
 
-- Launch the app and complete the onboarding process.
-- Set your travel preferences and explore personalized recommendations.
-- Save your favorite spots and manage your itinerary with ease.
+- Set your **travel preferences** after login.  
+- Explore curated stays, eateries, and unique sights.  
+- Tap ⭐ to save favourites to your trip profile.  
+- Edit your itinerary — drag-and-drop, add notes, or swap activities.  
+- Access real-time updates for trending places or temporary closures.  
 
----
+## 🗺️ Roadmap
 
-## Roadmap
+We’re actively building new features! Upcoming:
 
-We are actively working on new features and improvements. Check out our [ROADMAP](ROADMAP.md) for upcoming updates.
+- iOS beta (TestFlight launch)  
+- Smarter suggestions with enhanced AI  
+- Full offline support  
+- In-app transport & flight booking  
+- Social features: share, follow, collaborate on plans  
+- Premium integrations for exclusive deals  
 
----
+Check our ROADMAP file for ongoing progress.
 
-## Support
+## 🛠️ Contributing
 
-For questions, feedback, or bug reports, please visit our [Support](support/contact.md) page or open an issue on GitHub.
+We value all feedback — testers, travel enthusiasts, and developers alike!
 
----
+- Report bugs & suggest features via [Issues](https://github.com/fahad10inb/SyncTrek/issues)  
+- Fork and clone the repo for your improvements  
+- Submit pull requests with your changes  
+- Please open a discussion on the repo for major features before starting work  
 
-## License
+## ❓ Frequently Asked Questions (FAQs)
 
-This project is licensed under a proprietary license. See the [LICENSE](LICENSE) file for details.
+See the [Wiki/FAQs](https://github.com/fahad10inb/SyncTrek/wiki) for answers to common questions about usage, troubleshooting, and contribution guidelines. If you don’t find your answer there, please open an issue or discussion.
 
----
+## 🔒 Security
 
-Thank you for participating in the Travel Planner App beta. Your feedback is invaluable to us!
+If you discover a security vulnerability, please report it privately via the email provided in our [SECURITY](https://github.com/fahad10inb/SyncTrek/security) file rather than posting publicly to ensure timely fixes.
+
+## 📞 Support
+
+For any questions, feedback, or assistance:
+
+- Open an issue on [GitHub Issues](https://github.com/fahad10inb/SyncTrek/issues)  
+- Check previous issues for solutions before posting  
+- Join discussions on feature requests or enhancements  
+
+Your input is invaluable to making SyncTrek outstanding.
+
+## 📝 License
+
+This project is **proprietary**. Usage and modifications permitted only as per the [LICENSE](https://github.com/fahad10inb/SyncTrek/blob/main/LICENSE) file.
+
+## 🙏 Acknowledgments
+
+Thank you to everyone who helps shape the future of travel planning with SyncTrek. Your collaboration powers all our progress!
+
+Let me know if you want me to generate markdown code or add screenshots, badges, or other sections to enhance this README further.
