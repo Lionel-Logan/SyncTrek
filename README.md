@@ -1,5 +1,3 @@
-
-
 # SyncTrek - Travel Planner App (Beta)
 
 ## 🚀 Overview
@@ -27,10 +25,12 @@
 
 ## 📲 Installation
 
-1. Download the latest **Beta APK** from the [Releases](https://github.com/fahad10inb/SyncTrek/releases) section.  
-2. On your Android device, enable installation from unknown sources if prompted.  
-3. Open and install the APK.  
-4. Launch SyncTrek and follow the onboarding prompts.  
+1. Download the latest **Beta APK** directly here:  
+   [Download SyncTrek APK v1.0.0.0](https://github.com/fahad10inb/SyncTrek/releases/download/v1.0.0.0/app-release.apk)  
+2. Or visit the [Releases](https://github.com/fahad10inb/SyncTrek/releases) page for other versions.  
+3. On your Android device, enable installation from unknown sources if prompted.  
+4. Open and install the APK.  
+5. Launch SyncTrek and follow the onboarding prompts.  
 
 *Need help? Visit our [Support Issues](https://github.com/fahad10inb/SyncTrek/issues) page.*
 
@@ -90,4 +90,6 @@ This project is **proprietary**. Usage and modifications permitted only as per t
 
 Thank you to everyone who helps shape the future of travel planning with SyncTrek. Your collaboration powers all our progress!
 
-Let me know if you want me to generate markdown code or add screenshots, badges, or other sections to enhance this README further.
+---
+
+Let me know if you want me to help generate or update this README in markdown format or include screenshots, badges, or additional sections for a more comprehensive presentation.
