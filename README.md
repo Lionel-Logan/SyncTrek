@@ -59,10 +59,7 @@ Check our ROADMAP file for ongoing progress.
 
 We value all feedback — testers, travel enthusiasts, and developers alike!
 
-- Report bugs & suggest features via [Issues](https://github.com/fahad10inb/SyncTrek/issues)  
-- Fork and clone the repo for your improvements  
-- Submit pull requests with your changes  
-- Please open a discussion on the repo for major features before starting work  
+- Report bugs & suggest features via [Issues](https://github.com/fahad10inb/SyncTrek/issues)    
 
 ## ❓ Frequently Asked Questions (FAQs)
 
@@ -89,7 +86,3 @@ This project is **proprietary**. Usage and modifications permitted only as per t
 ## 🙏 Acknowledgments
 
 Thank you to everyone who helps shape the future of travel planning with SyncTrek. Your collaboration powers all our progress!
-
----
-
-Let me know if you want me to help generate or update this README in markdown format or include screenshots, badges, or additional sections for a more comprehensive presentation.
