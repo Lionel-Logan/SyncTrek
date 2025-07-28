@@ -28,55 +28,55 @@
 Here are some screenshots showcasing the SyncTrek app experience:
 
 **Account Personalization**  
-![Account Personalization](<assets/Screenshots/Account Personalization.jpg>)  
+<img src="assets/Screenshots/Account Personalization.jpg" alt="Account Personalization" width="350" />
 
 **Google Sign-in**  
-![Google Sign-in](<assets/Screenshots/Google Sign-in.jpg>)  
+<img src="assets/Screenshots/Google Sign-in.jpg" alt="Google Sign-in" width="350" />
 
 **Home Screen 2**  
-![Home Screen 2](<assets/Screenshots/Home Screen 2.jpg>)  
+<img src="assets/Screenshots/Home Screen 2.jpg" alt="Home Screen 2" width="350" />
 
 **Home Screen**  
-![Home Screen](<assets/Screenshots/Home Screen.jpg>)  
+<img src="assets/Screenshots/Home Screen.jpg" alt="Home Screen" width="350" />
 
 **Hotel Recommendations**  
-![Hotel Recommendations](<assets/Screenshots/Hotel Recommendations.jpg>)  
+<img src="assets/Screenshots/Hotel Recommendations.jpg" alt="Hotel Recommendations" width="350" />
 
 **Insights Page**  
-![Insights Page](<assets/Screenshots/Insights Page.jpg>)  
+<img src="assets/Screenshots/Insights Page.jpg" alt="Insights Page" width="350" />
 
 **Introduction Page**  
-![Introduction Page](<assets/Screenshots/Introduction Page.jpg>)  
+<img src="assets/Screenshots/Introduction Page.jpg" alt="Introduction Page" width="350" />
 
 **Itinerary Page**  
-![Itinerary Page](<assets/Screenshots/Itinerary Page.jpg>)  
+<img src="assets/Screenshots/Itinerary Page.jpg" alt="Itinerary Page" width="350" />
 
 **Landing Page**  
-![Landing Page](<assets/Screenshots/Landing Page.jpg>)  
+<img src="assets/Screenshots/Landing Page.jpg" alt="Landing Page" width="350" />
 
 **Loading Screen**  
-![Loading Screen](<assets/Screenshots/Loading Screen.jpg>)  
+<img src="assets/Screenshots/Loading Screen.jpg" alt="Loading Screen" width="350" />
 
 **Login Page**  
-![Login Page](<assets/Screenshots/Login Page.jpg>)  
+<img src="assets/Screenshots/Login Page.jpg" alt="Login Page" width="350" />
 
 **Places Recommendations**  
-![Places Recommendations](<assets/Screenshots/Places Recommendations.jpg>)  
+<img src="assets/Screenshots/Places Recommendations.jpg" alt="Places Recommendations" width="350" />
 
 **Questionaire**  
-![Questionaire](<assets/Screenshots/Questionaire.jpg>)  
+<img src="assets/Screenshots/Questionaire.jpg" alt="Questionaire" width="350" />
 
 **Restaurant Recommendations**  
-![Restaurant Recommendations](<assets/Screenshots/Restaurant Recommendations.jpg>)  
+<img src="assets/Screenshots/Restaurant Recommendations.jpg" alt="Restaurant Recommendations" width="350" />
 
 **Rules Page**  
-![Rules Page](<assets/Screenshots/Rules Page.jpg>)  
+<img src="assets/Screenshots/Rules Page.jpg" alt="Rules Page" width="350" />
 
 **Signup Page**  
-![Signup Page](<assets/Screenshots/Signup Page.jpg>)  
+<img src="assets/Screenshots/Signup Page.jpg" alt="Signup Page" width="350" />
 
 **Travel Recommendations**  
-![Travel Recommendations](<assets/Screenshots/Travel Recommendations.jpg>)  
+<img src="assets/Screenshots/Travel Recommendations.jpg" alt="Travel Recommendations" width="350" />
 
 ## 📲 Installation
 
