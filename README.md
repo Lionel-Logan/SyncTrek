@@ -23,6 +23,61 @@
 - **Offline Access (Coming Soon):** Plan ahead and stay prepared even without internet.  
 - **Secure & Private:** Your travels, your data — kept safe.  
 
+## 📸 Screenshots
+
+Here are some screenshots showcasing the SyncTrek app experience:
+
+**Account Personalization**  
+![Account Personalization](<assets/Screenshots/Account Personalization.jpg>)  
+
+**Google Sign-in**  
+![Google Sign-in](<assets/Screenshots/Google Sign-in.jpg>)  
+
+**Home Screen 2**  
+![Home Screen 2](<assets/Screenshots/Home Screen 2.jpg>)  
+
+**Home Screen**  
+![Home Screen](<assets/Screenshots/Home Screen.jpg>)  
+
+**Hotel Recommendations**  
+![Hotel Recommendations](<assets/Screenshots/Hotel Recommendations.jpg>)  
+
+**Insights Page**  
+![Insights Page](<assets/Screenshots/Insights Page.jpg>)  
+
+**Introduction Page**  
+![Introduction Page](<assets/Screenshots/Introduction Page.jpg>)  
+
+**Itinerary Page**  
+![Itinerary Page](<assets/Screenshots/Itinerary Page.jpg>)  
+
+**Landing Page**  
+![Landing Page](<assets/Screenshots/Landing Page.jpg>)  
+
+**Loading Screen**  
+![Loading Screen](<assets/Screenshots/Loading Screen.jpg>)  
+
+**Login Page**  
+![Login Page](<assets/Screenshots/Login Page.jpg>)  
+
+**Places Recommendations**  
+![Places Recommendations](<assets/Screenshots/Places Recommendations.jpg>)  
+
+**Questionaire**  
+![Questionaire](<assets/Screenshots/Questionaire.jpg>)  
+
+**Restaurant Recommendations**  
+![Restaurant Recommendations](<assets/Screenshots/Restaurant Recommendations.jpg>)  
+
+**Rules Page**  
+![Rules Page](<assets/Screenshots/Rules Page.jpg>)  
+
+**Signup Page**  
+![Signup Page](<assets/Screenshots/Signup Page.jpg>)  
+
+**Travel Recommendations**  
+![Travel Recommendations](<assets/Screenshots/Travel Recommendations.jpg>)  
+
 ## 📲 Installation
 
 1. Download the latest **Beta APK** directly here:  
